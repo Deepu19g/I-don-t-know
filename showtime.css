@@ -116,7 +116,7 @@ ul li{
 }
 .social ul li a{
   background-color:black;
-  
+  margin-bottom:0px;
   color: beige;
   height: 100px;
   width:200px;
