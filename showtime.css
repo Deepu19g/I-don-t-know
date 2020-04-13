@@ -142,5 +142,6 @@ ul li{
     }
     .social{
         background-size: cover;
+        bottom:0px;
         }
 
